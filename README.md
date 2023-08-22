@@ -6,6 +6,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chrisdepallan&theme=gruvbox&border_radius=4.5)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdepallan\&layout=donut-vertical)](https://github.com/chrisdepallan/github-readme-stats)
+
+
 #
 
 ### 🧰 Languages and Tools
