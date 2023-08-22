@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**chrisdepallan/chrisdepallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdepallan&show_icons=true&theme=gruvbox)
@@ -11,6 +6,11 @@ Here are some ideas to get you started:
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+<!--
+**chrisdepallan/chrisdepallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
