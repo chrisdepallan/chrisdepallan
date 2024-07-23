@@ -1,5 +1,10 @@
 ### Hi there 👋
+## About me
+I'm Chris Dennis,  a student of technology and its advancements who thrives on turning ideas into lines of code. From web apps to AI experiments, I love exploring it all.
 ### 📊 Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisdepallan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisdepallan&show_icons=true&theme=gruvbox)
 
